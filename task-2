@@ -1,0 +1,6 @@
+Describe and Design High Availability Setup for MongoDB Cluser. Consider the below Point while designing the Cluster.
+ 1. Dockerzied with docker-compose
+ 2. Auto Failover configuration
+ 3. Health monitor on MongoDB service
+ 4. Replica Set Configuration
+ 5. Authentication enabled with user-defined mongo key
